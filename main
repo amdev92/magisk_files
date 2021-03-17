@@ -1,0 +1,17 @@
+{
+  "app": {
+    "version": "8.0.4",
+    "versionCode": "203",
+    "link": "https://github.com/amdev92/magisk_files/raw/main/MagiskManager-v8.0.4.apk",
+    "note": "https://github.com/amdev92/magisk_files/raw/main/changelog.md"
+  },
+  "uninstaller": {
+    "link": "https://github.com/amdev92/magisk_files/raw/main/Magisk-uninstaller-20201228.zip"
+  },
+  "magisk": {
+    "version": "21.2",
+    "versionCode": "21200",
+    "link": "https://github.com/amdev92/magisk_files/raw/main/Magisk-v21.2.zip",
+    "note": "https://github.com/amdev92/magisk_files/raw/main/changelog.md",
+  }
+}
