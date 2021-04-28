@@ -9,8 +9,8 @@
     "link": "https://github.com/amdev92/magisk_files/raw/main/Magisk-uninstaller-20201228.zip"
   },
   "magisk": {
-    "version": "21.2",
-    "versionCode": "21200",
+    "version": "22.2",
+    "versionCode": "22200",
     "link": "https://github.com/amdev92/magisk_files/raw/main/Magisk-v21.2.zip",
     "note": "https://github.com/amdev92/magisk_files/raw/main/changelog.md",
   }
