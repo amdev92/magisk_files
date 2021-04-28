@@ -11,7 +11,7 @@
   "magisk": {
     "version": "21.2",
     "versionCode": "21200",
-    "link": "https://github.com/amdev92/magisk_files/raw/main/Magisk-v21.2.zip",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v21.4/Magisk-v21.4.zip",
     "note": "https://github.com/amdev92/magisk_files/raw/main/changelog.md",
   }
 }
